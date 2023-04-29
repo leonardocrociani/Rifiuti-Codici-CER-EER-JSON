@@ -1,4 +1,4 @@
-# Elenco rifiuti con codice EER
+# Elenco rifiuti con codice EER / CER
 
 Elenco rifiuti con codice EER / CER e stato di pericolosità divisi in categorie e sottocategorie, ordinati, con stato di pericolo
 
