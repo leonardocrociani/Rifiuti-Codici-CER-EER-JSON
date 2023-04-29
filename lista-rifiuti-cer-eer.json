@@ -1,0 +1,152 @@
+[
+    {
+        "categoria": "RIFIUTI DERIVANTI DALLA PROSPEZIONE, ESTRAZIONE, DA MINIERA O CAVA, NONCHE' DAL TRATTAMENTO FISICO O CHIMICO DI MINERALI",
+        "sottocategorie": [
+            {
+                "nome": "RIFIUTI DA ESTRAZIONE DI MINERALI.",
+                "rifiuti": [
+                    {
+                        "codiceEER": "010101",
+                        "nome": "Rifiuti da estrazione di minerali metalliferi",
+                        "pericoloso": false
+                    },
+                    {
+                        "codiceEER": "010102",
+                        "nome": "Rifiuti da estrazione di minerali non metalliferi",
+                        "pericoloso": false
+                    }
+                ]
+            },
+            {
+                "nome": "RIFIUTI PRODOTTI DA TRATTAMENTI CHIMICI E FISICI DI MINERALI METALLIFERI.",
+                "rifiuti": [
+                    {
+                        "codiceEER": "010304",
+                        "nome": "Sterili che possono generare acido prodotti dalla lavorazione di minerale solforoso",
+                        "pericoloso": true
+                    },
+                    {
+                        "codiceEER": "010305",
+                        "nome": "Altri sterili contenenti sostanze pericolose",
+                        "pericoloso": true
+                    },
+                    {
+                        "codiceEER": "010306",
+                        "nome": "Sterili diversi da quelli di cui alle voci 010304 e 010305",
+                        "pericoloso": false
+                    },
+                    {
+                        "codiceEER": "010307",
+                        "nome": "Altri rifiuti contenenti sostanze pericolose prodotti da trattamenti chimici e fisici di minerali metalliferi",
+                        "pericoloso": true
+                    },
+                    {
+                        "codiceEER": "010308",
+                        "nome": "Polveri e residui affini diversi da quelli di cui alla voce 010307",
+                        "pericoloso": false
+                    },
+                    {
+                        "codiceEER": "010309",
+                        "nome": "Fanghi rossi derivanti dalla produzione di alluminia, diversi da quelli di cui alla voce 010307",
+                        "pericoloso": false
+                    },
+                    {
+                        "codiceEER": "010310",
+                        "nome": "CER 01 03 10",
+                        "pericoloso": true
+                    },
+                    {
+                        "codiceEER": "010399",
+                        "nome": "Rifiuti non specificati altrimenti",
+                        "pericoloso": false
+                    }
+                ]
+            },
+            {
+                "nome": "RIFIUTI PRODOTTI DA TRATTAMENTI CHIMICI E FISICI DI MINERALI NON METALLIFERI.",
+                "rifiuti": [
+                    {
+                        "codiceEER": "010407",
+                        "nome": "Rifiuti contenenti sostanze pericolose, prodotti da trattamenti chimici e fisici di minerali non metalliferi",
+                        "pericoloso": true
+                    },
+                    {
+                        "codiceEER": "010408",
+                        "nome": "Scarti di ghiaia e pietrisco, diversi da quelli di cui alla voce 010407",
+                        "pericoloso": false
+                    },
+                    {
+                        "codiceEER": "010409",
+                        "nome": "Scarti di sabbia e argilla",
+                        "pericoloso": false
+                    },
+                    {
+                        "codiceEER": "010410",
+                        "nome": "Polveri e residui affini, diversi da quelli di cui alla voce 010407",
+                        "pericoloso": false
+                    },
+                    {
+                        "codiceEER": "010411",
+                        "nome": "Rifiuti della lavorazione di potassa e salgemma, diversi da quelli di cui alla voce 010407",
+                        "pericoloso": false
+                    },
+                    {
+                        "codiceEER": "010412",
+                        "nome": "Sterili ed altri residui del lavaggio e della pulitura di minerali, diversi da quelli di cui alle voci 010407 ed 010411",
+                        "pericoloso": false
+                    },
+                    {
+                        "codiceEER": "010413",
+                        "nome": "Rifiuti prodotti dal taglio e dalla segagione della pietra, diversi da quelli di cui alla voce 010407",
+                        "pericoloso": false
+                    },
+                    {
+                        "codiceEER": "010499",
+                        "nome": "Rifiuti non specificati altrimenti",
+                        "pericoloso": false
+                    }
+                ]
+            },
+            {
+                "nome": "FANGHI DI PERFORAZIONE ED ALTRI RIFIUTI DI PERFORAZIONE.",
+                "rifiuti": [
+                    {
+                        "codiceEER": "010504",
+                        "nome": "Fanghi e rifiuti di perforazione di pozzi per acque dolci",
+                        "pericoloso": false
+                    },
+                    {
+                        "codiceEER": "010505",
+                        "nome": "Fanghi e rifiuti di perforazione contenenti oli",
+                        "pericoloso": true
+                    },
+                    {
+                        "codiceEER": "010506",
+                        "nome": "Fanghi perforazione ed altri rifiuti di perforazione contenenti sostanze pericolose",
+                        "pericoloso": true
+                    },
+                    {
+                        "codiceEER": "010507",
+                        "nome": "Fanghi e rifiuti di perforazione contenenti barite, diversi da quelli delle voci 010505 e 010506",
+                        "pericoloso": false
+                    },
+                    {
+                        "codiceEER": "010508",
+                        "nome": "Fanghi e rifiuti di perforazione contenenti cloruri, diversi da quelli delle voci 010505 e 010506",
+                        "pericoloso": false
+                    },
+                    {
+                        "codiceEER": "010599",
+                        "nome": "Rifiuti non specificati altrimenti",
+                        "pericoloso": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "categoria": "RIFIUTI PRODOTTI DA AGRICOLTURA, ORTICOLTURA, ACQUACOLTURA, SELVICOLTURA, CACCIA E PESCA, TRATTAMENTO E PREPARAZIONE DI ALIMENTI",
+        "sottocategorie":"La lista non è completa. La lista completa è ottenibile a pagamento (5 euro) all'indirizzo l.crociani@outlook.com",
+     },
+]
+      
