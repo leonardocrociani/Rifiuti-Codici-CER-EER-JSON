@@ -5,4 +5,4 @@ Elenco rifiuti con codice EER / CER e stato di pericolosità divisi in categorie
 ---
 
 ### La lista non è completa.
-#### La lista completa è ottenibile a pagamento. Contatto mail: l.crociani@outlook.com
+#### La lista completa è ottenibile a pagamento (5 euro). Contatto mail: l.crociani@outlook.com
